@@ -6,9 +6,9 @@ Notes for Applied Business Statistics
                      Descriptive Statistics<br>
                      Inferential Statistics
                      
-* Measures          : <br>Mode</br>
-                      Median</br>
-                      Mean</br>
-                      Percentiles</br>
-                      Quartiles</br>
+* Measures-of-Central-Tendency         : <br>Mode</br>
+                                        Median</br>
+                                        Mean</br>
+                                        Percentiles</br>
+                                        Quartiles</br>
                       
