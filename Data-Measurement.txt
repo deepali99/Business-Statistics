@@ -1,0 +1,56 @@
+                              There are 4 common level of data measurement
+
+1. Nominal : Numbers representing nominal data can be used to classify or categorize. 
+Eg : Employee Identification Numbers. These numbers are only used to differentiate one employees from the other and not to make a value statement about them.
+ 
+ Other example of Nominal data are as follows:
+ Sex
+ Religion
+ Location
+ 
+ Thus the main aim of nominal data is classifying the data 
+ Nominal data does not rank the data. For ranking we have Ordinal data
+ 
+
+ 2. Ordinal data : Can be used to order or rank objects + Nominal data characteristics(used to classify)
+ Example: A supervisor can rank the productivity of employers using ordinal data. However the supervisor cannot establish the interval between the employees ranked 1 and 2 is equal to the interval between the employee ranked 2 and 3. 
+ 
+ With ordinal data the distance represented by consecutive number may or may not be equal. To address this we have interval data 
+ 
+
+ 3. Interval data : The distance between consecutive numbers have meaning(equal) and the data is always numerical
+ Example: With Fahrenheit temperature numbers,the temperatures can be ranked and the amount of heat between consecutive readings are the same
+ 
+ 
+4. Ratio data : Here the ratio of two numbers is meaningful. Ratio data also has an absolute zero + Interval data characteristics
+ 
+ Example: With ratio data we can state that 180 pounds of data is twice as much as 90 pounds of data i.e they make a ratio of 180:90
+ -------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+Descriptive Statistics: Here we gather data from every element in the population and draw conclusions about the population
+Using Descriptive Statistics in the industry
+ 
+ 1) Total number of worker hours helps understand labour cost,work allocation and productivity
+ 2) Sales Volume help us determine the number of products sold,the profits, advertisements required etc
+ 3) Amount of raw material purchased helps us understand the inventory requirement,waste etc
+
+
+
+Inferential Statistics: Generated from the process of gathering sample data from a population and reaching to conclusions about the larger group from which the sample was drawn
+Using Inferential Statistics in the industry
+ 
+ 1) Take a sample of your products and test them for quality,life span and vrious other features. Use these samples to draw a conclusion about all the products in the population
+ 2) Consider a few consumers of your product and determine how many products they purcahsed. Use this to estimate market potential and penetration for the entire population
+ 3) Interview a random sample of employees from your company. Use these to enhance productivity and the working enviornment for the entire population.
+ 
+--------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
