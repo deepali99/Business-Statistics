@@ -7,8 +7,8 @@ Notes for Applied Business Statistics
                      Inferential Statistics
                      
 * Measures          : <br>Mode</br>
-                      <br>Median</br>
-                      <br>Mean</br>
-                      <br>Percentiles</br>
-                      <br>Quartiles</br>
+                      Median</br>
+                      Mean</br>
+                      Percentiles</br>
+                      Quartiles</br>
                       
