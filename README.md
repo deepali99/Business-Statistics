@@ -2,6 +2,6 @@
 
 Notes for Applied Business Statistics
 
-* Data Measurement : Types of data<br>
+* Data Measurement : <br>Types of data<br>
                      Descriptive Statistics<br>
                      Inferential Statistics
