@@ -13,5 +13,5 @@ Notes for Applied Business Statistics
                                         Quartiles</br>
                                         
 * Lists :           <br>More operations on List </br>      
-                    <br>Type Casting</br>
+                    Type Casting</br>
                       
