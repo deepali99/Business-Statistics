@@ -11,4 +11,7 @@ Notes for Applied Business Statistics
                                         Mean</br>
                                         Percentiles</br>
                                         Quartiles</br>
+                                        
+* Lists :           <br>More operations on List </br>      
+                    <br>Type Casting</br>
                       
